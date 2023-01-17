@@ -25,14 +25,13 @@
 
 ## <br>
 
-## My social network:
-[![Telegram](https://img.shields.io/badge/Telegram-000??style=for-the-badge&logo=Telegram&logoColor=gold)](https://t.me/artem_xopc)
+## Follow me:
+[![Telegram](https://img.shields.io/badge/Telegram-000??style=for-the-badge&logo=Telegram&logoColor=green)](https://t.me/artem_xopc)
 [![VKontakte](https://img.shields.io/badge/VKontakte-000??style=for-the-badge&logo=VK&logoColor=09b6ee)](https://vk.com/artem_xopc)
-[![Telegram-channel](https://img.shields.io/badge/Telegram_channel-000??style=for-the-badge&logo=Telegram&logoColor=green)](https://t.me/log_of_proger)
+[![Telegram-channel](https://img.shields.io/badge/Telegram_channel_[XProger]-000??style=for-the-badge&logo=Telegram&logoColor=gold)](https://t.me/log_of_proger)
 
 ## My stats:
 
-## <br>
 
 [![Artem's GitHub stats](https://github-readme-stats.vercel.app/api?username=artem-xopc&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
