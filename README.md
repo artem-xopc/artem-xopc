@@ -20,4 +20,7 @@
 ![Postman](https://img.shields.io/badge/Postman-000??style=for-the-badge&logo=Postman)
 
 
-follow me
+## My sochial network
+[![Telegram](https://img.shields.io/badge/Telegram-000??style=for-the-badge&logo=Telegram)](https://t.me/artem_xopc)
+[![VKontakte](https://img.shields.io/badge/VKontakte-000??style=for-the-badge&logo=VK)](https://vk.com/artem_xopc)
+[![Telegram-channel](https://img.shields.io/badge/Telegram_channel-000??style=for-the-badge&logo=Telegram&logoColor=gold)](https://t.me/log_of_proger)
