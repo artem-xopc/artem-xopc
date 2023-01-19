@@ -2,7 +2,7 @@
 ### <h1 align="center">Hello there!</h1>
 
 ### <p align="center">I am a novice web developer.</p> 
-### I also have my own <a href="https://t.me/log_of_proger">Telegram channel</a> dedicated to learning JavaScript programming.
+### <p align="center">I also have my own <a href="https://t.me/log_of_proger">Telegram channel</a> dedicated to learning JavaScript programming.</p> 
 
 #
 
@@ -34,12 +34,10 @@
 [![codewars](https://www.codewars.com/users/artem_xopc/badges/micro)](https://www.codewars.com/users/artem_xopc)
 
 ## <p align="center"><strong>My stats:</strong></p>
-[![Artem's GitHub stats](https://github-readme-stats.vercel.app/api?username=artem-xopc&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+### <div align="center">[![Artem's GitHub stats](https://github-readme-stats.vercel.app/api?username=artem-xopc&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)</div>
 ## <hr>
 [![Artem's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=artem-xopc&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-## Follow me:
-[![Telegram](https://img.shields.io/badge/Telegram-000??style=for-the-badge&logo=Telegram&logoColor=green)](https://t.me/artem_xopc)
-[![VKontakte](https://img.shields.io/badge/ВКонтакте-000??style=for-the-badge&logo=VK&logoColor=09b6ee)](https://vk.com/artem_xopc)
-[![Telegram-channel](https://img.shields.io/badge/Telegram_channel_[XProger]-000??style=for-the-badge&logo=Telegram&logoColor=gold)](https://t.me/log_of_proger)
+## <div align="center"> Follow me:</div>
+### <div align="center"> [![Telegram](https://img.shields.io/badge/Telegram-000??style=for-the-badge&logo=Telegram&logoColor=green)](https://t.me/artem_xopc)[![VKontakte](https://img.shields.io/badge/ВКонтакте-000??style=for-the-badge&logo=VK&logoColor=09b6ee)](https://vk.com/artem_xopc) [![Telegram-channel](https://img.shields.io/badge/Telegram_channel_[XProger]-000??style=for-the-badge&logo=Telegram&logoColor=gold)](https://t.me/log_of_proger)</div>
