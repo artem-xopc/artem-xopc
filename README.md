@@ -1,7 +1,8 @@
 [![Header](https://github.com/artem-xopc/artem-xopc/blob/main/assets/1.png)](https://www.youtube.com/@artem_xopc)
 ### <h1 align="center">Hello there!</h1>
 
-### <p align="center">I am a novice web developer.</p>
+### <p align="center">I am Frontend JavaScript Developer.</p>
+#### <p align="center">I have been engaged in web development for more than a year.</p>
 
 #
 
