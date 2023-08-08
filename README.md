@@ -36,7 +36,7 @@
 ## <p align="center"><strong>My stats:</strong></p>
 ### <div align="center">[![Artem's GitHub stats](https://github-readme-stats.vercel.app/api?username=artem-xopc&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)</div>
 ## <hr>
-[![Artem's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=artem-xopc&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Artem's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=artem-xopc&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ## <div align="center"> Follow me:</div>
